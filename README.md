@@ -21,8 +21,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 I am a **Data Science student** passionate about transforming raw data into meaningful insights.  
-📊 I enjoy solving **real-world problems** using statistics, machine learning, and data-driven thinking.
+🎓 I am **Nguyễn Quốc Thuận**, a **Data Science student** passionate about transforming raw data into meaningful insights.  
+📊 Allows me to solve real-world problems using **statistics, machine learning, and data-driven thinking**.
 
 - 📘 Currently learning:  
   **Machine Learning, Feature Engineering, Model Evaluation**
@@ -52,7 +52,7 @@
 - Feature Engineering
 - Supervised Learning (Classification, Regression)
 - Model Evaluation & Hyperparameter Tuning
-- Basic MLOps concepts (pipelines, reproducibility)
+- Basic MLOps concepts
 
 ---
 
@@ -64,9 +64,9 @@
 - Focus: Feature importance & evaluation metrics
 
 ### 🧬 Breast Cancer Prediction
-- Medical dataset analysis  
 - End-to-end ML pipeline  
-- Emphasis on model interpretability
+- Medical dataset analysis  
+- Model interpretability
 
 ### 🛒 Customer Analytics
 - Customer segmentation (Clustering)
@@ -91,9 +91,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **thanhhuynh.de@gmail.com**
-- 🔗 LinkedIn: https://linkedin.com/in/thanhhuynh
-- 💻 GitHub: https://github.com/TienNguyen0712
+- 📧 Email: **nguyenthuan08072021@gmail.com**
+- 💻 GitHub: https://github.com/nguyenthuank5
 
 ---
 
